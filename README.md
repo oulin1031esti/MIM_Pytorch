@@ -21,7 +21,7 @@ opencv-python==4.4.0.46
 Usage for the code:
 
 ```
-python main.py --root /path/to/cloud_dataset -K 10 -T 10
+python main.py --root /path/to/dataset -K 10 -T 10
 ```
 
 Models will be saved in `--out_dir`, videos and images are saved in `--img_dir`.
