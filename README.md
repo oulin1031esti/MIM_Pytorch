@@ -1,4 +1,4 @@
-# cloud prediction
+# Video prediction
 
 Pytorch implementation of video prediction based on MIM
 
